@@ -1,0 +1,11 @@
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\bin\Release\Winform Proj.exe.config
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\bin\Release\Winform Proj.exe
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\bin\Release\Winform Proj.pdb
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform_Proj.Form1.resources
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform_Proj.Properties.Resources.resources
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform Proj.csproj.GenerateResource.cache
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform Proj.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform Proj.exe
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform Proj.pdb
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform Proj.csproj.AssemblyReference.cache
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Release\Winform Proj.csproj.SuggestedBindingRedirects.cache

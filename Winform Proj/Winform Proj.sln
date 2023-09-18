@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform Proj", "Winform Proj\Winform Proj.csproj", "{D1B361BA-6E52-4023-8247-DC3BF0BB00FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15AC4FFE-1B1B-42F8-86B8-A778CD48A7B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B361BA-6E52-4023-8247-DC3BF0BB00FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B361BA-6E52-4023-8247-DC3BF0BB00FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B361BA-6E52-4023-8247-DC3BF0BB00FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B361BA-6E52-4023-8247-DC3BF0BB00FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E16ECB-7282-4811-B480-4A3A58522234}
+	EndGlobalSection
+EndGlobal

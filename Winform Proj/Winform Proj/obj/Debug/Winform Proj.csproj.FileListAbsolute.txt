@@ -1,0 +1,10 @@
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\bin\Debug\Winform Proj.exe.config
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\bin\Debug\Winform Proj.exe
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\bin\Debug\Winform Proj.pdb
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform_Proj.Form1.resources
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform_Proj.Properties.Resources.resources
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform Proj.csproj.GenerateResource.cache
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform Proj.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform Proj.exe
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform Proj.pdb
+C:\Users\Nguyen Duc Hoan\source\repos\Winform Proj\Winform Proj\obj\Debug\Winform Proj.csproj.AssemblyReference.cache

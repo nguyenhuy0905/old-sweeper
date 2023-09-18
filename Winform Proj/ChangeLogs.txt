@@ -1,0 +1,4 @@
+(Update Log bắt đầu viết từ 21 tháng 6 năm 2021)
+*21/6/2021:
+-Add lưu dữ liệu. Có 3 slot lưu trữ.
+-HIện tại chương trình chưa đọc được dữ liệu.

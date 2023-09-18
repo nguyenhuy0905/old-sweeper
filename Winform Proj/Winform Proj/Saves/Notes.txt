@@ -1,0 +1,9 @@
+Nếu định đọc File dữ liệu:
+1. Hiện tại chỉ có file Auto Save có dữ liệu.
+2. Dữ liệu:
+dòng đầu là số cột và hàng.
+các dòng tiếp theo là dữ liệu các ô, lần lượt gồm:
+1) vị trí trên bảng
+2) số mine xung quanh một ô (nếu số đó là -1 nghĩa là 0 mine, 0 nghĩa là 1,..., 9 tức là ô đấy chứa mine).
+3) ô đó được left click (mở) chưa.
+4) ô đó được right click (đánh dấu) chưa.
